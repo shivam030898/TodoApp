@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TodoApp/static/css/main.7ff2001a.css",
+    "main.js": "/TodoApp/static/js/main.ff783396.js",
+    "static/media/ian-dooley-DJ7bWa-Gwks-unsplash.jpg": "/TodoApp/static/media/ian-dooley-DJ7bWa-Gwks-unsplash.c0db24c93e2c2e63d94c.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/TodoApp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/TodoApp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/TodoApp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/TodoApp/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/TodoApp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/TodoApp/index.html",
+    "main.7ff2001a.css.map": "/TodoApp/static/css/main.7ff2001a.css.map",
+    "main.ff783396.js.map": "/TodoApp/static/js/main.ff783396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff2001a.css",
+    "static/js/main.ff783396.js"
+  ]
+}
