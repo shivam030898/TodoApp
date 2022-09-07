@@ -1,0 +1,76 @@
+.homepage {
+    height: 100vh;
+    weight: 100vw;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .add-edit-input {
+    position: absolute;
+    top: 50px;
+    outline: none;
+    border: none;
+    height: 30px;
+    font-size: 25px;
+    padding: 5px 20px;
+    border-radius: 20px;
+  }
+  
+  .add-confirm-icon {
+    position: absolute;
+    transform: scale(2);
+    top: 57px;
+    right: 735px;
+    cursor: pointer;
+    color: black;
+  }
+  .add-confirm-icon :hover{
+    color: white  ;
+  }
+  
+  .todo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+  
+  .todo > h1 {
+    width: 500px;
+    background-color: rgb(211, 211, 211);
+    padding: 5px 10px;
+  }
+  
+  .edit-button,
+  .delete-button {
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  .edit-button:hover,
+  .delete-button :hover{
+    color: white;
+  }
+  
+  .logout-icon {
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
+  }
+
+  .logout-icon:hover{
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+    color: black;
+  }
